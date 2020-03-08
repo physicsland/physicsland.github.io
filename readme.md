@@ -8,7 +8,6 @@ Come back from time to time and see the new additions we are putting in place. H
 
 
 ## Implemented:  
-
 * Unit Conversion
 * Kinematics 1-D
 * Vector addition and multiplications

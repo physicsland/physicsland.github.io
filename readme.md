@@ -17,6 +17,7 @@ Come back from time to time and see the new additions we are putting in place. H
 ## Planned:  
 * Reasoning Module (Reveal)
 * Trignometry
+* Error Propagation
 * Matrix operations
 * Quadratic solver, with complex valued solutions
 * Kinematics 2D and 3D
@@ -26,7 +27,6 @@ Come back from time to time and see the new additions we are putting in place. H
 * Linear Momentum
 * Angular Momentum
 * Gravity and circular/elliptical orbits
-* Error Propagation
 * 3D VR goggle mode for some sections such as vectors, E&M, Torque
 * Coulomb's force
 * Electric Potential and Electric Potential Energy

@@ -30,8 +30,8 @@ Come back from time to time and see the new additions we are putting in place. H
 * 3D VR goggle mode for some sections such as vectors, E&M, Torque
 * Coulomb's force
 * Electric Potential and Electric Potential Energy
-* D.c. Circuits
-* A.c. Circuits
+* dc Circuits
+* ac Circuits
 * Waves and interference
 * Optics
 * Fliud Mechanics

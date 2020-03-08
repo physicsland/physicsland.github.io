@@ -11,7 +11,7 @@ Implemented:
 
 * Unit Conversion
 * Kinematics 1-D
-* Vecdtor addition and multiplications
+* Vector addition and multiplications
 * Sig. Figs.
 * Scratch Pad (partial)
 
@@ -19,6 +19,7 @@ Planned:
 
 * Reasoning Module (Reveal)
 * Trignometry
+* Matrix operations
 * Quadratic solver, with complex valued solutions
 * Kinematics 2D and 3D
 * Rotational motion, Circular Motion

@@ -2,7 +2,7 @@
 
 ## The is the hidden dimension to the full scale transformative [Physics Land](https://www.physics.land) project   
 
-The project was launched in 2019, being built from Angular web app, as a Google Firebase Project, on Google Cloud Platform (GCP). Our goal is to include all freshmen physics topics there, and beyond. From basic simple calculations for all physics 101 questions, to the full range computations with error propagation, 3-D virtual reality visualization (of vectors, cross products, E&M, Torque, etc), complex-valued computations and more.
+The project was launched in 2019, being built from Angular web app, as a [Google Firebase Project](https://firebase.google.com), on Google Cloud Platform (GCP). Our goal is to include all freshmen physics topics there, and beyond. From basic simple calculations for all physics 101 questions, to the full range computations with error propagation, 3-D virtual reality visualization (of vectors, cross products, E&M, Torque, etc), complex-valued computations and more.
 
 As a firebase project, it is ready to take full advantage of the power and flexibility behind the GCP for data analytics and AI neural network (ANN) development. The ultimate goal is to develop the ANN to solve physics everyday word problems by itself.
 

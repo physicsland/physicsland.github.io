@@ -13,19 +13,20 @@ Come back from time to time and see the new additions we are putting in place. H
 * Unit Conversion
 * Kinematics 1-D
 * Vector addition and multiplications
+* Triangle solver (laws of sines and cosines)
+* Reasoning Module (Reveal)
 * Sig. Figs.
 * Scratch Pad (partial)
+* Quadratic solver (basic version)
 
 ## Planned:  
-* Reasoning Module (Reveal)
-* Trignometry
 * Error Propagation
 * Matrix operations
 * Quadratic solver, with complex valued solutions
 * Kinematics 2D and 3D
 * Rotational motion, Circular Motion
 * Newton's laws of motion
-* Kinetic Energy, Potentail Energy, Conservation of Energy
+* Kinetic Energy, Potential Energy, Conservation of Energy
 * Linear Momentum
 * Angular Momentum
 * Gravity and circular/elliptical orbits

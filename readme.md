@@ -13,6 +13,7 @@ Come back from time to time and see the new additions we are putting in place. H
 * Unit Conversion
 * Kinematics 1-D
 * Vector addition and multiplications
+* 2D vector decompositions and additions
 * Triangle solver (laws of sines and cosines)
 * Reasoning Module (Reveal)
 * Sig. Figs.

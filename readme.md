@@ -18,12 +18,12 @@ Come back from time to time and see the new additions we are putting in place. H
 * Reasoning Module (Reveal)
 * Sig. Figs.
 * Scratch Pad (partial)
-* Quadratic solver (basic version)
+* Quadratic solver (complete and basic versions)
 
 ## Planned:  
 * Error Propagation
 * Matrix operations
-* Quadratic solver, with complex valued solutions
+* complex valued solutions
 * Kinematics 2D and 3D
 * Rotational motion, Circular Motion
 * Newton's laws of motion

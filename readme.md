@@ -43,3 +43,6 @@ Come back from time to time and see the new additions we are putting in place. H
 * Relativity
 * Quantum Physics
 * and more
+
+Questions or comments?
+Please contact us (physics land) at the1
